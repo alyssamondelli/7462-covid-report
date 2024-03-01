@@ -9,7 +9,7 @@ execute:
 editor: visual
 ---
 
-## hello world from 7462
+## hello world from 7462 class
 
 Report last run: `r Sys.time()`
 
